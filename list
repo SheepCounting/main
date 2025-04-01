@@ -2,11 +2,8 @@ local Games = {
   [2753915549] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/bf", -- Blox Fruit Sea 1
   [4442272183] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/bf", -- Blox Fruit Sea 2
   [7449423635] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/bf", -- Blox Fruit Sea 3
-  [3623096087] = "", -- Muscle Legends
   [16732694052] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- Fisch
   [72907489978215] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- sea 2 Fisch
-  [116495829188952] = "", -- Dead Rails
-  [70876832253163] = """, -- Dead Rails
   [16552821455] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/dw", --dandy
   [91282350711571] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/mcy1", --mcy1
 }
