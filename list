@@ -7,6 +7,7 @@ local Games = {
   [72907489978215] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Fisch.lua", -- sea 2 Fisch
   [116495829188952] = "", -- Dead Rails
   [70876832253163] = """, -- Dead Rails
+  [16552821455] ="", --dandy
 }
 
 return Games
