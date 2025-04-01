@@ -8,6 +8,7 @@ local Games = {
   [116495829188952] = "", -- Dead Rails
   [70876832253163] = """, -- Dead Rails
   [16552821455] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/dw", --dandy
+  [91282350711571] = "https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/mcy1", --mcy1
 }
 
 return Games
